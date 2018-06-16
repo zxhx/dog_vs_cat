@@ -1,4 +1,4 @@
-# Dog VS Cat
+# Dogs VS Cats
 
 ## README
 
