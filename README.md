@@ -8,7 +8,7 @@
 
   - 60G RAM
 
-  - 100G SSD Hard Disk
+  - 75G SSD Hard Disk
 
   - GPU：Tesla P100
 
