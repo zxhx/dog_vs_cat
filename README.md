@@ -24,15 +24,13 @@
 
 * 软件开发环境：
 
-  - Python 3.5.2 
+  - Python 3.6.4 
 
   - h5py 2.7.1 
 
-  - image 1.5.20 
-
   - ipykernel 4.8.2 
 
-  - ipython 6.3.1 
+  - ipython 6.4.0 
 
   - ipython-genutils 0.2.0 
 
