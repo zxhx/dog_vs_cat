@@ -73,5 +73,8 @@
   - tensorboard 1.8.0 
 
   - tensorflow-gpu 1.8.0
-
+* 训练时间分两部分：
+- 异常图片清洗：使用了三个预训练模型：Xception：5min, DenseNet201:14min, InceptionResNetV2:15min，小计：34min
+- 模型训练和生成预测结果：Xception:147s, InceptionResNetV2:215s, DenseNet201:177s, train:4min, 小计：12min
+- 以上总计时间：46min
     
